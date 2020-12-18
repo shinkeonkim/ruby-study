@@ -16,3 +16,8 @@
 ```shell
 > rails destroy 명령어
 ```
+
+## http server 실행
+```shell
+> rails server
+```
