@@ -1,5 +1,16 @@
-# 컨트롤러 클래스 기본
+# 컨트롤러
 
+## 컨트롤러 클래스 생성
+```shell
+> rails new generate controller 컨트롤러이름 [동작 옵션]
+```
+
+## 컨트롤러 클래스 삭제
+```shell
+> rails destroy 명령어
+```
+
+## 컨트롤러 클래스 기본
 ```ruby
 class HelloController < ApplicationController
     def index
