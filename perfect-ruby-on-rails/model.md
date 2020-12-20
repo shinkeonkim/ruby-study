@@ -55,3 +55,11 @@ sqlite> .schema books
 sqlite> SELECT * FROM books;
 sqlite> .quit
 ```
+
+## 데이터베이스 재설정 하기
+(데이터베이스 다 날리는 거임. 조심하기)
+
+```shell
+> rake db:reset
+> rake db:fixtures:load
+```

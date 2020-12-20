@@ -1,0 +1,67 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+modernjava:
+  book: 1
+  author: 1 
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+jslib:
+  book: 2
+  author: 1
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+jslib_2:
+  book: 2
+  author: 2
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+rails:
+  book: 3
+  author: 2
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+sql:
+  book: 4
+  author: 2
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+android:
+  book: 5
+  author: 1
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+php:
+  book: 6
+  author: 3
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+html:
+  book: 7
+  author: 3
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+refhtml:
+  book: 8
+  author: 1
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+servlet:
+  book: 9
+  author: 1
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
+
+iphone:
+  book: 10
+  author: 3
+  created_at: "2020-12-20T23:10:58+09:00"
+  updated_at: "2020-12-20T23:10:58+09:00"
